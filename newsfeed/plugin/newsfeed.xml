@@ -2,9 +2,9 @@
 <extension version="3.5" type="plugin" group="tags" method="upgrade">
 	<name>PLG_TAGS_NEWSFEED</name>
 	<creationDate>09.08.2016</creationDate>
-	<author>Kevin</author>
-	<authorEmail>your@email.com</authorEmail>
-	<authorUrl>http://your.url.com</authorUrl>
+	<author>Kevin Scheithauer</author>
+	<authorEmail>kevin.scheithauer@mni.thm.de</authorEmail>
+	<authorUrl>https://github.com/kevinscheithauer/newsfeedplugin</authorUrl>
 	<copyright>A copyright</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<version>1.0</version>
